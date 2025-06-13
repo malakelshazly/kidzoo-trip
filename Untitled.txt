@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kidzoo Trip</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e8f4fd;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 30px auto;
+      background-color: white;
+      border-radius: 10px;
+      padding: 30px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .header {
+      background-color: #337ab7;
+      color: white;
+      padding: 20px;
+      border-radius: 10px 10px 0 0;
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    h2 {
+      color: #337ab7;
+      margin-top: 30px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .highlight-box {
+      background-color: #fff3c4;
+      padding: 15px;
+      margin-top: 20px;
+      font-weight: bold;
+      color: #8a4b00;
+      text-align: center;
+      border-radius: 5px;
+    }
+
+    .footer {
+      margin-top: 30px;
+      font-size: 14px;
+      text-align: center;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">Kidzoo</div>
+
+    <h2>About the Trip</h2>
+    <p>
+      Get ready for an unforgettable adventure at Kidzoo! Our campers will dive into a day full of creativity, connection, and hands-on fun.
+      From vibrant wall painting and baking delicious bread to relaxing donkey cart rides, every activity is designed to spark joy.
+      Campers will also get to make their own soaps and personalize a bag to take home.
+      It’s the perfect chance to bond with friends, explore new talents, and create memories—and crafts—that last a lifetime!
+    </p>
+
+    <h2>What to Bring</h2>
+    <ul>
+      <li>Camp T-shirt and comfortable shoes</li>
+      <li>Water and snacks</li>
+      <li>Sun block, as all activities are outdoors</li>
+    </ul>
+
+    <div class="highlight-box">
+      Get Ready for a Day of Fun and Creativity!
+    </div>
+
+    <div class="footer">
+      For any inquiries or concerns, please contact your trip coordinator.
+    </div>
+  </div>
+</body>
+</html>
